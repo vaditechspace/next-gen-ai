@@ -1,0 +1,8 @@
+openai
+azure-core
+azure-search-documents
+Flask
+waitress
+langchain
+langchain_community
+langchain-openai

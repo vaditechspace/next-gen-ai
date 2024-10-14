@@ -1,0 +1,16 @@
+{
+  "azopenai": {
+    "endpoint": "<<AZURE_OPEN_AI_ENDPOINT>>",
+    "key": "<<AZURE_OPEN_AI_KEY>>",
+    "apiversion": "<<AZURE_OPENAI_MODEL_API_VERSION>>",
+    "model": "<<AZURE_OPENAI_MODEL_AI>>"
+  },
+  "azaisearch": {
+      "endpoint": "<<AZURE_AISEARCH_ENDPOINT>>",
+      "index": "<<AZURE_AISEARCH_INDEXNAME>>",
+      "key": "<<AZURE_AISEARCH_KEY>>",
+      "embedmodel": "<<AZURE_OPENAI_EMBEDDING_MODEL>>",
+      "filteron":"<<AZURE_AISEARCH_INDEX_REPOSITORY_NAME_FIELD>>"
+  }
+}
+
