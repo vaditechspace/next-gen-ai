@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AISearchConsole", "AISearchConsole\AISearchConsole.csproj", "{78A609A4-4300-4E93-B5B9-8368FF9BCA66}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AISearchService", "AISearchService\AISearchService.csproj", "{796D54FE-60CB-401C-B440-6F90DAB57AA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78A609A4-4300-4E93-B5B9-8368FF9BCA66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78A609A4-4300-4E93-B5B9-8368FF9BCA66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78A609A4-4300-4E93-B5B9-8368FF9BCA66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78A609A4-4300-4E93-B5B9-8368FF9BCA66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{796D54FE-60CB-401C-B440-6F90DAB57AA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{796D54FE-60CB-401C-B440-6F90DAB57AA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{796D54FE-60CB-401C-B440-6F90DAB57AA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{796D54FE-60CB-401C-B440-6F90DAB57AA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57174DBB-E29D-4042-9351-F1E56C9125E0}
+	EndGlobalSection
+EndGlobal
